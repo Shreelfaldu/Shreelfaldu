@@ -43,15 +43,5 @@ Welcome to my GitHub profile! I'm Shreel Faldu, a dedicated and enthusiastic web
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🚀 My Stats
-![Shreel's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 📫 Contact Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedinprofile)
-- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourtwitterhandle)
-- [![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:youremail@example.com)
-
 Let's build something amazing together!
 
-![Footer](https://raw.githubusercontent.com/yourusername/yourusername/master/footer.png)
