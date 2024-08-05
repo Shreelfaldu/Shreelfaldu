@@ -1,6 +1,6 @@
 # Hi there, I'm Shreel Faldu! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedinprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shreelfaldu/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourtwitterhandle)
 [![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:youremail@example.com)
 
