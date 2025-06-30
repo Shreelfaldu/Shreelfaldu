@@ -40,9 +40,9 @@
 
 ## 🐍 Watch my contributions snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shreelfaldu/Shreelfaldu/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
