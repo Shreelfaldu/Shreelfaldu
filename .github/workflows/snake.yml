@@ -16,10 +16,10 @@ jobs:
           outputs: |
             ./output/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
+      - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: output
         env:
-          GITHUB_TOKEN: ${{ secrets.snake-game}}
+          GITHUB_TOKEN: ${{ secrets.snake-game }}
